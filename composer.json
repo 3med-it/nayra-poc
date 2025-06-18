@@ -1,0 +1,12 @@
+{
+  "name": "group3/nayra-client-service",
+  "description": "POC Nayra PHP Microservice",
+  "require": {
+    "ecotone/nayra": "^0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "process/"
+    }
+  }
+}
